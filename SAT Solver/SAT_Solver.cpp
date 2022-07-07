@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // clock_t start1, end1;
-int h1024(vector<vector<int>> &formula, vector<int> &partial_int)
+int h1024(vector<vector<int>> &formula, vector<int> &partial_int)//Heuristic
 {
     long long max = -1;
     int x = -1;
